@@ -1,0 +1,15 @@
+2018-04-07 23:15:07,796 ERROR [main] - System.err - [org.eclipse.jdt.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.ui.preferences.OptionsConfigurationBlock$HighlightPainter
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2018-04-07 23:15:14,490 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.jres.ExecutionEnvironmentsPreferencePage
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2018-04-07 23:31:51,366 ERROR [ModalContext] - System.err - [org.eclipse.jdt.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.core.CreateMethodOperation
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/bin/lwjgl-glfw.jar" sourcepath="/Libraries/lib/lwjgl/src/lwjgl-glfw-sources.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/bin/lwjgl.jar" sourcepath="/Libraries/lib/lwjgl/src/lwjgl-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CommonCode"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-glfw-natives-linux.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/bin/lwjgl-opengl.jar" sourcepath="/Libraries/lib/lwjgl/src/lwjgl-opengl-sources.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-opengl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-opengl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/bin/lwjgl-nfd.jar" sourcepath="/Libraries/lib/lwjgl/src/lwjgl-nfd-sources.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-nfd-natives-linux.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-nfd-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Libraries/lib/lwjgl/native/lwjgl-nfd-natives-windows.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
